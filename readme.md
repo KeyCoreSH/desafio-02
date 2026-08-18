@@ -10,7 +10,7 @@
   <img alt="Desafio" src="assets/desafio.png" width="100%">
 </p>
 
-# 🚀 KeyCore Tech Challenge 002 / 2026
+# 🚀 KeyCore Tech Challenge 02
 ## Dispositivos IoT → API Tuya → Painel Admin → Inteligência
 
 Bem-vindo ao segundo desafio técnico da KeyCore.
